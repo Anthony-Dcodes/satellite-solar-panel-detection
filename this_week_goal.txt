@@ -1,0 +1,5 @@
+1. Create repo - done
+2. Setup conda env - done
+3. Download small dataset - done
+4. Train YOLOv8n
+5. Get first detections working
